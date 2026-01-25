@@ -21,3 +21,11 @@ Day 2
 - Practiced comparison operators
 - Solved logic problems (even/odd, largest number, grading)
 - Wrote my own conditional logic
+
+
+
+
+Day 3
+- Learned for, while loops
+- Practiced number logic (reverse, palindrome)
+- Solved loop-based problems
