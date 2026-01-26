@@ -29,3 +29,11 @@ Day 3
 - Learned for, while loops
 - Practiced number logic (reverse, palindrome)
 - Solved loop-based problems
+
+
+
+
+Day 4
+- Learned arrays basics
+- Practiced array traversal
+- Solved sum, max, reverse, sorted check
