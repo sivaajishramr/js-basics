@@ -37,3 +37,12 @@ Day 4
 - Learned arrays basics
 - Practiced array traversal
 - Solved sum, max, reverse, sorted check
+
+
+
+
+
+Day 5
+- Learned functions
+- Used parameters and return values
+- Solved logic problems using functions
