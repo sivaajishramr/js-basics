@@ -46,3 +46,9 @@ Day 5
 - Learned functions
 - Used parameters and return values
 - Solved logic problems using functions
+
+
+ Day 6
+- Learned string basics
+- Practiced string traversal
+- Solved reverse and palindrome problems
