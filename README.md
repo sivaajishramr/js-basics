@@ -52,3 +52,9 @@ Day 5
 - Learned string basics
 - Practiced string traversal
 - Solved reverse and palindrome problems
+
+
+Day 7
+- Revised basics
+- Solved mixed logic problems
+- Improved problem-solving confidence
