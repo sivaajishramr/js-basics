@@ -58,3 +58,10 @@ Day 7
 - Revised basics
 - Solved mixed logic problems
 - Improved problem-solving confidence
+
+
+
+Day 8
+- Learned object basics
+- Practiced accessing and looping objects
+- Solved object-based logic problems
