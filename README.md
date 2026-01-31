@@ -65,3 +65,8 @@ Day 8
 - Learned object basics
 - Practiced accessing and looping objects
 - Solved object-based logic problems
+
+
+Day 9
+- Practiced arrays of objects
+- Solved real-world data problems
