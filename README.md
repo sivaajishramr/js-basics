@@ -70,3 +70,8 @@ Day 8
 Day 9
 - Practiced arrays of objects
 - Solved real-world data problems
+
+
+ Day 10
+- Used functions for reusable logic
+- Solved real-life tasks using arrays and objects
