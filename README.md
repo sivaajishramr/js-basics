@@ -75,3 +75,9 @@ Day 9
  Day 10
 - Used functions for reusable logic
 - Solved real-life tasks using arrays and objects
+
+
+
+Day 11
+- Practiced problem-solving speed
+- Applied patterns to mixed problems
