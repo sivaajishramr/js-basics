@@ -81,3 +81,9 @@ Day 9
 Day 11
 - Practiced problem-solving speed
 - Applied patterns to mixed problems
+
+
+
+Day 12
+- Learned mini-project thinking
+- Built to-do list logic using arrays and functions
