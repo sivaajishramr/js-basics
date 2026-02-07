@@ -87,3 +87,10 @@ Day 11
 Day 12
 - Learned mini-project thinking
 - Built to-do list logic using arrays and functions
+
+
+
+Day 13
+- Connected JavaScript with HTML
+- Built a browser-based To-Do app
+- Used DOM manipulation and events
